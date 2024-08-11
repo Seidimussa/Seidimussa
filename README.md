@@ -7,8 +7,13 @@
 
  <div>
 <a href="https://github.com/Seidimussa">
+<!-- / 
+ <img alt="Seidimussa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Seidimussa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidimussa&layout=compact&&langs_count=8&theme=dracula"/> 
+ / -->
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seidimussa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidimussa&layout-compacto&langs_count=20&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidimussa&layout-compact&langs_count=20&theme=dracula"/>
 </div>
 
 
@@ -42,3 +47,8 @@
   <a href="https://www.blogger.com/in/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+### Profile views counter 👁️‍🗨️
+[![Mussa Seidi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Seidimussa)
