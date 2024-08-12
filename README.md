@@ -4,19 +4,15 @@
 - 🌱 I’m currently learning TypeScript / Dev_Mobile
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help
-
- <div>
-<a href="https://github.com/Seidimussa">
-<!-- / 
- <img alt="Seidimussa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Seidimussa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidimussa&layout=compact&&langs_count=8&theme=dracula"/> 
- / -->
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seidimussa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seidimussa&layout-compact&langs_count=20&theme=dracula"/>
+- 
+<a href="https://github.com/Seidimussa"></a>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seidimussa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seidimussa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
-
+  
+ <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mussa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mussa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,8 +25,6 @@
   <img align="center" alt="Mussa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Mussa-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 
-
- 	
 </div>
   
   ##
@@ -50,5 +44,5 @@
 
 
 
-### Profile views counter 👁️‍🗨️
-[![Mussa Seidi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Seidimussa)
+### Profile views 👁️‍🗨️
+![](https://komarev.com/ghpvc/?username=Seidimussa&label=PROFILE+VIEWS)
