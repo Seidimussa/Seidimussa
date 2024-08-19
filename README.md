@@ -1,10 +1,11 @@
 ## Olá! Eu sou Mussa Seidi
 
-- 🔭 I’m currently working ...
+- 🔭 I’m currently working...
 - 🌱 I’m currently learning TypeScript / Dev_Mobile
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help
-- 
+
+
 <a href="https://github.com/Seidimussa"></a>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seidimussa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
