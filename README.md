@@ -1,6 +1,6 @@
 ## Olá! Eu sou Mussa Seidi
 
-- 🔭 I’m currently working...
+- 🔭 I’m currently ...
 - 🌱 I’m currently learning TypeScript / Dev_Mobile
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help
@@ -8,8 +8,8 @@
 
 <a href="https://github.com/Seidimussa"></a>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seidimussa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seidimussa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seidimussa&count_private=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seidimussa&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
   
  <div>
